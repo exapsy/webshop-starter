@@ -1,0 +1,3 @@
+[submodule "webshop-starter-sveltekit"]
+	path = webshop-starter-sveltekit
+	url = git@github.com:exapsy/webshop-starter-sveltekit
